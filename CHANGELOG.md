@@ -2,6 +2,7 @@
   - Breaking: Updated plugin to use new Java Event APIs
   - relax logstash-core-plugin-api constrains
   - update .travis.yml
+  - update riemann-client dependency to version 0.2.6
 
 ## 2.0.5
   - Depend on logstash-core-plugin-api instead of logstash-core, removing the need to mass update plugins on major releases of logstash
